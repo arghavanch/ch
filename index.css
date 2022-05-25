@@ -1,3 +1,16 @@
 *{
-    background-color: #daffef;
+    background-color:#ece4db
+}
+h1 , h3{
+    color: #358f80;
+}
+hr{
+    color: #78c6a3;
+    border-style:none;
+    width: 30%;
+    border-top-style: dotted;
+
+}
+img{
+    height: 300px;
 }
